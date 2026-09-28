@@ -16,4 +16,4 @@ price-comparison research.
     User-agent: SmartCrawler
     Disallow: /
 
-or email: noersa.eka@gmail.com
+or email: ventlasiete@gmail.com
